@@ -1,0 +1,10 @@
+Package: STA381Pack
+Type: Package
+Title: STA 381 Package
+Version: 0.1.0
+Author: Grant Eyer
+Maintainer: <granteyer@gmail.com>
+Description: A package that helps with STA 381 class.
+License: Free to use
+Encoding: UTF-8
+LazyData: true
